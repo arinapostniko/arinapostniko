@@ -1,6 +1,6 @@
 ### Hello 👋🏻
 
-My name is Arina, i'm 19 y.o.
+My name is Arina.
 
 - iOS Developer 💻
 - Currently in Minsk 📍
