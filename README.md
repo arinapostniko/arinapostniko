@@ -1,6 +1,6 @@
 ### Hello 👋🏻
 
-My name is Arina.
+My name is Arina
 
 - iOS Developer 💻
 - Currently in Minsk 📍
